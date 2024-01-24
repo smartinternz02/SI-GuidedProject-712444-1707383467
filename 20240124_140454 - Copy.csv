@@ -1,0 +1,4 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Cura_Testsuites_MakeAppointment_002_testdata,Chrome 120.0.0.0,,,24-01-2024 14:05:08,24-01-2024 14:06:07,59.410s,PASSED
+,,,,,,,
+Test Cases/TC_CURA_MakeAppointment_002,Chrome 120.0.0.0,,,24-01-2024 14:05:08,24-01-2024 14:06:01,52.766s,PASSED
